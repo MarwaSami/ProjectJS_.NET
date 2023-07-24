@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>login</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="assets/login.css">
+</head>
+<body>
+    <div class="cont">
+        <div class="sign">
+    <h2>  WelcomeBack</h2>
+<!-- <form method="post" id="signup-form" action="" > -->
+    <!-- <label for="text">WhatsApp Number</label> -->
+     <input type="text" id="role" name="role" class="in" value='landlord' hidden>
+
+     <input type="email" id="email" name="email" class="in" required placeholder="Enter your email">
+     <small style="display: none;" id="erroremail"> <i class="fa-solid fa-triangle-exclamation" style="color: #ff0000;"></i>Invalid Email</small>
+    <!-- <label for="phone number">Phone Number</label> -->
+		<input type="password" id="password" name="password" class="in" required placeholder="Enter your password">
+        <small id="errorpass" style="display: none;"><i class="fa-solid fa-triangle-exclamation" style="color: #ff0000;"></i> Password is Wrong Try Again</small>
+        <small style="display: none;" id="erroremailpass"> <i class="fa-solid fa-triangle-exclamation" style="color: #ff0000;"></i>Invalid Email and Password Try Again!</small>
+        <div id="create">
+        <a href="register.html">Create New Account?</a>
+
+        </div>
+        <input type="submit" class="in" value="Login" onclick="Signin()">
+        
+<!-- </form> -->
+</div>
+</div>
+</body>
+<script src="JS/login.js"></script>
+</html>

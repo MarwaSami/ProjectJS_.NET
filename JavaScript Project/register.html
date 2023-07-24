@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="assets/register.css">
+</head>
+<body>
+    <div class="cont">
+    <div class="sign">
+    <h2> Sign Up Here</h2>
+    <!-- <form method="post" id="signup-form" > -->
+      <!-- <label for="name">Full Name</label>  -->
+    <input type="text" id="name" name="name" class="in" placeholder=" Full Name " required>
+    <br>
+    <small id="errorname" style="display: none;"> Full name must be more than 5 Alphabets </small>
+    <!-- <label for="text">WhatsApp Number</label> -->     
+     <input type="email" id="email" name="email" class="in"  required placeholder="Email">
+     <br>
+         <small style="display: none;" id="erroremail"> Enter your email</small>
+
+    <!-- <label for="phone number">Phone Number</label> -->
+    <input type="text" id="phone" name="phone" class="in" placeholder="Phone Number" required>
+    <br>
+        <small id="errorphone" style="display: none;"> Enter a valid phone number </small>
+
+		<!-- <label for="password">Password</label> -->
+		<input type="password" id="password" name="password" class="in" required placeholder="Password">
+        <br>
+        <small id="errorpass" style="display: none;"> password must be more than 5 chars </small>
+
+        <br>
+        <input type="checkbox" id="terms"   > I agree to <span id="accept">Terms</span> </label>
+        <br>
+      <small id="errorterm" style="display: none;">You Have To Agree All Terms And Policies  </small>
+          <br>
+        <input type="submit" class="in"  onclick="SignUp()" value="Create Account">
+<!-- </form> -->
+</div>
+</div>
+<script src="JS/register.js"></script>
+</body>
+</html>
