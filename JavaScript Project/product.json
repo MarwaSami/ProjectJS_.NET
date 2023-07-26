@@ -1,0 +1,219 @@
+{
+      "items": [{
+        "id": "GGOEAFKA087499",
+        "name": "Alocasia Regal Shield",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$204.90",
+        "rate":2,
+        "img": "Alocasia.jpg",
+        "category": "Air purifying"
+      },
+      {
+        "id": "GGOEAFKA087599",
+        "name": "Aralia Ming",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$284.90",
+        "rate":4,
+        "img": "Aralia.jpg",
+        "category": "Air purifying"
+      },
+      {
+        "id": "GGOEGEBK094499",
+        "name": "Birdnest Japanese",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$84.90",
+        "rate":5,
+        "img": "Birdnest.jpg",
+        "category": "Air purifying"
+      },
+      {
+        "id": "GGOEGFKA086699",
+        "name": "Dracaena Lisa",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$114.90",
+        "rate":3,
+        "img": "Dracaena.jpg",
+        "category": "Air purifying"
+      },
+      {
+        "id": "GGOEWCKQ085457",
+        "name": "Ficus Decora Cabernet",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$124.90",
+        "rate":4,
+        "img": "Ficus.jpg",
+        "category": "Air purifying"
+      },
+      {
+        "id": "GGOEGHPB071610",
+        "name": "Golden Pothos Pole",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$74.90",
+        "rate":4,
+        "img": "Golden.jpg",
+        "category": "Air purifying"
+      },
+      {
+        "id": "GGOEGHPJ094299",
+        "name": "Monstera Deliciosa",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$224.90",
+        "rate":4,
+        "img": "Monstera.jpg",
+        "category": "Air purifying"
+      },
+      {
+        "id": "GGOEGHPJ094399",
+        "name": "Bird of Paradise",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$249.90",
+        "rate":5,
+        "img": "Bird.jpg",
+        "category": "Ceramic pots"
+      },
+      {
+        "id": "GGOEWXXX0827",
+        "name": "Pachira Braid",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$74.90",
+        "rate":3,
+        "img": "Pachira.jpg",
+        "category": "Ceramic pots"
+      },
+      {
+        "id": "GGOEWXXX0828",
+        "name": "Sansevieria Golden Flame",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$49.90",
+        "rate":2,
+        "img": "Sansevieria.jpg",
+        "category": "Ceramic pots"
+      },
+      {
+        "id": "GGOEGBRJ037399",
+        "name": "Calathea Beauty Star",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$79.90",
+        "rate":4,
+        "img": "Calathea.jpg",
+        "category": "Herbs seeds"
+      },
+      {
+        "id": "GGOEGDHJ087399",
+        "name": "Calathea Rufibarba",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$79.90",
+        "rate":4,
+        "img": "Rufibarba.jpg",
+        "category": "Herbs seeds"
+      },
+      {
+        "id": "GGOEADHB086299",
+        "name": "Ficus Decora Burgundy",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$89.90",
+        "rate":2,
+        "img": "Ficus2.jpg",
+        "category": "Herbs seeds"
+      },
+      {
+        "id": "GGOEGDHC087099",
+        "name": "Zz Plants",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$124.90",
+        "rate":1,
+        "img": "Zz.jpg",
+        "category": "Herbs seeds"
+      },
+      {
+        "id": "GGOEGDHH087299",
+        "name": "Bypass Secateur",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$48.90",
+        "rate":3,
+        "img": "Secateur.jpg",
+        "category": "Plant Accessories"
+      },
+      {
+        "id": "GGOEGDHQ093399",
+        "name": "Single Prong Weeder",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$11.90",
+        "rate":2,
+        "img": "Weeder.jpg",
+        "category": "Plant Accessories"
+      },
+      {
+        "id": "GGOEGDHQ093399",
+        "name": "Straight Blade Scissor",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$24.90",
+        "rate":5,
+        "img": "Scissor.jpg",
+        "category": "Plant Accessories"
+      },
+      {
+        "id": "GGOEGDHT087199",
+        "name": "Transplanter with Plastic Sleeve",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$18.90",
+        "rate":1,
+        "img": "Transplanter.jpg",
+        "category": "Plant Accessories"
+      },
+      {
+        "id": "GGOEGDWQ087699",
+        "name": "Trowel with Plastic Sleeve",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$20.90",
+        "rate":4,
+        "img": "Trowel.jpg",
+        "category": "Plant Accessories"
+      },
+      {
+        "id": "GGOEYDHB086099",
+        "name": "Hoya Obovatum",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$64.00",
+        "rate":3,
+        "img": "Obovatum.jpg",
+        "category": "Indoor plants"
+      },
+      {
+        "id": "GGOEGAPB087899",
+        "name": "Sansevieria Laurentii",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$79.90",
+        "rate":5,
+        "img": "Laurentii.jpg",
+        "category": "Indoor plants"
+      },
+      {
+        "id": "GGOEGAPL087999",
+        "name": "Spathiphyllum",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$94.90",
+        "rate":4,
+        "img": "Spathiphyllum.jpg",
+        "category": "Indoor plants"
+      },
+      {
+        "id": "GGOEGAPL087999",
+        "name": "Peperomia Lemon Lime",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$32.90",
+        "rate":5,
+        "img": "Lemon.jpg",
+        "category": "Indoor plants"
+      },
+      {
+        "id": "GGOEGAPL087999",
+        "name": "Pilea Peperomioides",
+        "description": "<p>Faucibus lacus tincidunt molestie accumsan nibh non odio aenean molestie purus tristique sed tempor consequat risus tellus amet augue egestas mauris scelerisque donec ultrices.<br>Sollicitudin facilisis massa pellentesque in ultrices enim nunc ac egestas elementum ut in ornare sit malesuada.</p>",
+        "price": "$24.00",
+        "rate":3,
+        "img": "Peperomioides.jpg",
+        "category": "Indoor plants"
+      }
+    ]
+}
